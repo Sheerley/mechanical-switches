@@ -102,7 +102,7 @@ A list of mechanical switches. I made it to ensure that anyone can find them as 
 |---|---|---|:---:|:---:|
 |Black|![Black](./Switches/Kailh/black.jpg)||||
 |Blue|![Blue](./Switches/Kailh/blue.jpg)||||
-|BOX Ancient Grey|![Box Ancient Grey](./Switches/Kailh/box_ancient_gray.jpg)||||
+|BOX Ancient Grey|![Box Ancient Grey](./Switches/Kailh/box_ancient_grey.jpg)||||
 |BOX Black|![Box Black](./Switches/Kailh/box_black.jpg)||||
 |BOX Brown|![Box Brown](./Switches/Kailh/box_brown.jpg)||||
 |BOX Chinese Red|![Box Chinese Red](./Switches/Kailh/box_chinese_red.jpg)||||
