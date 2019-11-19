@@ -50,7 +50,7 @@ A list of mechanical switches. I made it to ensure that anyone can find them as 
 |Blue|![Blue](./Switches/BSUN/blue.webp)|Clicky|||
 |Brown|![Brown](./Switches/BSUN/brown.webp)|Tactile|||
 |Red|![Red](./Switches/BSUN/red.webp)|Linear|||
-|# Cherry|||||
+| # Cherry|||||
 |Hirose|![Hirose](./Switches/Cherry/green.png)|Linear|55g|70g|
 |MX Black|![MX Black](./Switches/Cherry/black.png)|Linear|60g||
 |MX Blue RGB Clear|![MX Blue Clear](./Switches/Cherry/blue_rgb.png)|Clicky|50g|60g|
