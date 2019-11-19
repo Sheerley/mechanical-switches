@@ -1,43 +1,27 @@
 # Mechanical Switches
 A list of mechanical switches. I made it to ensure that anyone can find them as easily as possible.
 
-## Alps
-
-## Big Switch
-
-- These switches are 4 times bigger on each side than a normal MX switch.
-- That comes up to 64 times bigger in volume.
-- These switches are fully functional.
-- All switches come with a matching keycap.
-- If you are in need of a Big Switch case, make sure to check out Strata KB for their selection!
-
-## BSUN
-
-## Cherry
-
-## FEI
-
-- Designed by Chouyu, manufactured by Gateron.
-
-## Gateron
-
-## Greetech
-
-## Kailh
-
-## Matias
-
-## MOD
-
-## Outemu
-
-## Topre
-
-## TTC
-
-## YOK
-
-## ZealPC
+- Alps
+- Big Switch
+  - These switches are 4 times bigger on each side than a normal MX switch.
+  - That comes up to 64 times bigger in volume.
+  - These switches are fully functional.
+  - All switches come with a matching keycap.
+  - If you are in need of a Big Switch case, make sure to check out Strata KB for their selection!
+- BSUN
+- Cherry
+- FEI
+  - Designed by Chouyu, manufactured by Gateron.
+- Gateron
+- Greetech
+- Kailh
+- Matias
+- MOD
+- Outemu
+- Topre
+- TTC
+- YOK
+- ZealPC
 
 |Name|Image|Type|Actuation Force|Bottoming Force|
 |---|---|---|:---:|:---:|
