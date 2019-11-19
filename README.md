@@ -41,16 +41,16 @@ A list of mechanical switches. I made it to ensure that anyone can find them as 
 
 |Name|Image|Type|
 |---|---|---|
-|# Big Switch|||||
+|<div style="width:290px">Big Switch</div>|||||
 |Pale Blue|![Clicky](./Switches/Big_Switch/clicky.jpg)|Clicky|
 |Dark Yellow|![Linear](./Switches/Big_Switch/linear.jpg)|Linear|
 |Burnt Orange|![Tactile](./Switches/Big_Switch/tactile.jpg)|Tactile|
-|# BSUN|||||
+|<div style="width:290px">BSUN</div>|||||
 |Black|![Black](./Switches/BSUN/black.webp)|Linear|||
 |Blue|![Blue](./Switches/BSUN/blue.webp)|Clicky|||
 |Brown|![Brown](./Switches/BSUN/brown.webp)|Tactile|||
 |Red|![Red](./Switches/BSUN/red.webp)|Linear|||
-| # Cherry|||||
+|<div style="width:290px">Cherry</div>|||||
 |Hirose|![Hirose](./Switches/Cherry/green.png)|Linear|55g|70g|
 |MX Black|![MX Black](./Switches/Cherry/black.png)|Linear|60g||
 |MX Blue RGB Clear|![MX Blue Clear](./Switches/Cherry/blue_rgb.png)|Clicky|50g|60g|
