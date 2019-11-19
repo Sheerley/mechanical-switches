@@ -11,25 +11,46 @@ A list of mechanical switches. I made it to ensure that anyone can find them as 
 - All switches come with a matching keycap.
 - If you are in need of a Big Switch case, make sure to check out Strata KB for their selection!
 
+## BSUN
+
+## Cherry
+
+## FEI
+
+- Designed by Chouyu, manufactured by Gateron.
+
+## Gateron
+
+## Greetech
+
+## Kailh
+
+## Matias
+
+## MOD
+
+## Outemu
+
+## Topre
+
+## TTC
+
+## YOK
+
+## ZealPC
+
 |Name|Image|Type|
 |---|---|---|
+|Big Switch|||||
 |Pale Blue|![Clicky](./Switches/Big_Switch/clicky.jpg)|Clicky|
 |Dark Yellow|![Linear](./Switches/Big_Switch/linear.jpg)|Linear|
 |Burnt Orange|![Tactile](./Switches/Big_Switch/tactile.jpg)|Tactile|
-
-## BSUN
-
-|Name|Image|Type|Actuation Force|Bottoming Force|
-|---|---|---|:---:|:---:|
+|BSUN|||||
 |Black|![Black](./Switches/BSUN/black.webp)|Linear|||
 |Blue|![Blue](./Switches/BSUN/blue.webp)|Clicky|||
 |Brown|![Brown](./Switches/BSUN/brown.webp)|Tactile|||
 |Red|![Red](./Switches/BSUN/red.webp)|Linear|||
-
-## Cherry
-
-|Name|Image|Type|Actuation Force|Bottoming Force|
-|---|---|---|:---:|:---:|
+|Cherry|||||
 |Hirose|![Hirose](./Switches/Cherry/green.png)|Linear|55g|70g|
 |MX Black|![MX Black](./Switches/Cherry/black.png)|Linear|60g||
 |MX Blue RGB Clear|![MX Blue Clear](./Switches/Cherry/blue_rgb.png)|Clicky|50g|60g|
@@ -44,19 +65,9 @@ A list of mechanical switches. I made it to ensure that anyone can find them as 
 |MX Silent Red RGB Clear|![MX Silent Red Clear](./Switches/Cherry/silent_red_rgb.png)|Linear|45g||
 |MX Silent Red|![MX Silent Red](./Switches/Cherry/silent_red.png)|Linear|45g||
 |MX White|![MX White](./Switches/Cherry/white.png)|Clicky|55g|80g|
-
-## FEI
-
-- Designed by Chouyu, manufactured by Gateron.
-
-|Name|Image|Type|Actuation Force|Bottoming Force|
-|---|---|---|:---:|:---:|
+|FEI|||||
 |FEI R2|![FEI](./Switches/FEI/fei.webp)|Linear||62g|
-
-## Gateron
-
-|Name|Image|Type|Actuation Force|Bottoming Force|
-|---|---|---|:---:|:---:|
+|Gateron|||||
 |Black|![Black](./Switches/Gateron/black.jpg)|Linear|60g||
 |Blue|![Blue](./Switches/Gateron/blue.jpg)|Clicky|60g||
 |Brown|![Brown](./Switches/Gateron/brown.jpg)|Tactile|55g||
@@ -85,21 +96,13 @@ A list of mechanical switches. I made it to ensure that anyone can find them as 
 |Silent Red|![Silent Red](./Switches/Gateron/silent_red.jpg)|Linear|45g||
 |Silent Yellow|![Silent Yellow](./Switches/Gateron/silent_yellow.jpg)|Linear|50g||
 |Yellow|![Yellow](./Switches/Gateron/yellow.jpg)|Linear|50g||
-
-## Greetech
-
-|Name|Image|Type|Actuation Force|Bottoming Force|
-|---|---|---|:---:|:---:|
+|Greetech|||||
 |Black|![Black](./Switches/Greetech/black.jpg)|Linear|80g||
 |Blue|![Blue](./Switches/Greetech/blue.jpg)|Clicky|55g||
 |Brown|![Brown](./Switches/Greetech/brown.jpg)|Tactile|55g||
 |Green|![Green](./Switches/Greetech/green.webp)|Clicky|80g||
 |Red|![Red](./Switches/Greetech/red.jpg)|Linear|55g||
-
-## Kailh
-
-|Name|Image|Type|Actuation Force|Bottoming Force|
-|---|---|---|:---:|:---:|
+|Kailh|||||
 |Black|![Black](./Switches/Kailh/black.jpg)||||
 |Blue|![Blue](./Switches/Kailh/blue.jpg)||||
 |BOX Ancient Grey|![Box Ancient Grey](./Switches/Kailh/box_ancient_grey.jpg)||||
@@ -115,58 +118,32 @@ A list of mechanical switches. I made it to ensure that anyone can find them as 
 |Choc Brown|![Choc Brown](./Switches/Kailh/choc_brown.jpg)||||
 |Choc Red|![Choc Red](./Switches/Kailh/choc_red.jpg)||||
 |Choc White|![Choc White](./Switches/Kailh/choc_white.jpg)||||
-
-## Matias
-
-|Name|Image|Type|Actuation Force|Bottoming Force|
-|---|---|---|:---:|:---:|
+|Matias|||||
 |Linear|![Black](./Switches/Matias/linear.jpg)|Linear|||
 |Quiet|![Blue](./Switches/Matias/quiet.jpg)||||
 |Standard|![Brown](./Switches/Matias/standard.jpg)||||
-
-## MOD
-
-|Name|Image|Type|Actuation Force|Bottoming Force|
-|---|---|---|:---:|:---:|
+|MOD|||||
 |H|![H](./Switches/MOD/h.jpg)|Linear|62g|78g|
 |H|![H](./Switches/MOD/h.jpg)|Tactile|62g|78g|
 |L|![L](./Switches/MOD/l.jpg)|Linear|45g|62g|
 |L|![L](./Switches/MOD/l.jpg)|Tactile|45g|62g|
 |M|![M](./Switches/MOD/m.jpg)|Linear|55g|68g|
 |M|![M](./Switches/MOD/m.jpg)|Tactile|55g|68g|
-
-## Outemu
-
-|Name|Image|Type|Actuation Force|Bottoming Force|
-|---|---|---|:---:|:---:|
+|Outemu|||||
 |Black|![Black](./Switches/Outemu/black.jpg)||||
 |Blue|![Blue](./Switches/Outemu/blue.jpg)||||
 |Brown|![Brown](./Switches/Outemu/brown.jpg)||||
 |Red|![Red](./Switches/Outemu/red.jpg)||||
-
-## Topre
-
-## TTC
-
-|Name|Image|Type|Actuation Force|Bottoming Force|
-|---|---|---|:---:|:---:|
+|TTC|||||
 |Gold Brown|![Brown](./Switches/TTC/gold_brown.jpg)|Tactile|50g|60g|
 |Gold Red|![Red](./Switches/TTC/gold_red.jpg)|Linear|50g|65g|
-
-## YOK
-
-|Name|Image|Type|Actuation Force|Bottoming Force|
-|---|---|---|:---:|:---:|
+|YOK|||||
 |Mint Panda|![Mint](./Switches/YOK/mint_panda.webp)|Linear|50g|60g|
 |Polar Panda|![Polar](./Switches/YOK/polar_panda.jpg)|Linear|50g|60g|
 |Purple Trash Panda|![Purple Trash](./Switches/YOK/purple_trash_panda.jpg)|Tactile|67g|70g|
 |Red Panda|![Red](./Switches/YOK/red_panda.webp)|Linear|50g|60g|
 |Trash Panda|![Trash](./Switches/YOK/trash_panda.jpg)|Linear|50g|60g|
-
-## ZealPC
-
-|Name|Image|Type|Actuation Force|Bottoming Force|
-|---|---|---|:---:|:---:|
+|ZealPC|||||
 |Aliaz|![Aliaz](./Switches/ZealPC/zealios_v2_62.jpg)|Tactile|60g||
 |Aliaz|![Aliaz](./Switches/ZealPC/zealios_v2_62.jpg)|Tactile|70g||
 |Aliaz|![Aliaz](./Switches/ZealPC/zealios_v2_62.jpg)|Tactile|80g||
@@ -182,4 +159,3 @@ A list of mechanical switches. I made it to ensure that anyone can find them as 
 |Zilents V2|![Zilents](./Switches/ZealPC/zilents_v2_65.jpg)|Linear|65g||
 |Zilents V2|![Zilents](./Switches/ZealPC/zilents_v2_67.jpg)|Linear|67g||
 |Zilents V2|![Zilents](./Switches/ZealPC/zilents_v2_78.jpg)|Linear|78g||
-
