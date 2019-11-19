@@ -39,8 +39,8 @@ A list of mechanical switches. I made it to ensure that anyone can find them as 
 
 ## ZealPC
 
-|Name|Image|Type|
-|---|---|---|
+|Name|Image|Type|Actuation Force|Bottoming Force|
+|---|---|---|:---:|:---:|
 |**Big Switch**|||||
 |Pale Blue|![Clicky](./Switches/Big_Switch/clicky.jpg)|Clicky|
 |Dark Yellow|![Linear](./Switches/Big_Switch/linear.jpg)|Linear|
