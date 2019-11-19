@@ -41,16 +41,16 @@ A list of mechanical switches. I made it to ensure that anyone can find them as 
 
 |Name|Image|Type|
 |---|---|---|
-|<div style="width:290px">Big Switch</div>|||||
+|**Big Switch**|||||
 |Pale Blue|![Clicky](./Switches/Big_Switch/clicky.jpg)|Clicky|
 |Dark Yellow|![Linear](./Switches/Big_Switch/linear.jpg)|Linear|
 |Burnt Orange|![Tactile](./Switches/Big_Switch/tactile.jpg)|Tactile|
-|<div style="width:290px">BSUN</div>|||||
+|**BSUN**|||||
 |Black|![Black](./Switches/BSUN/black.webp)|Linear|||
 |Blue|![Blue](./Switches/BSUN/blue.webp)|Clicky|||
 |Brown|![Brown](./Switches/BSUN/brown.webp)|Tactile|||
 |Red|![Red](./Switches/BSUN/red.webp)|Linear|||
-|<div style="width:290px">Cherry</div>|||||
+|**CHERRY**|||||
 |Hirose|![Hirose](./Switches/Cherry/green.png)|Linear|55g|70g|
 |MX Black|![MX Black](./Switches/Cherry/black.png)|Linear|60g||
 |MX Blue RGB Clear|![MX Blue Clear](./Switches/Cherry/blue_rgb.png)|Clicky|50g|60g|
@@ -65,9 +65,9 @@ A list of mechanical switches. I made it to ensure that anyone can find them as 
 |MX Silent Red RGB Clear|![MX Silent Red Clear](./Switches/Cherry/silent_red_rgb.png)|Linear|45g||
 |MX Silent Red|![MX Silent Red](./Switches/Cherry/silent_red.png)|Linear|45g||
 |MX White|![MX White](./Switches/Cherry/white.png)|Clicky|55g|80g|
-|# FEI|||||
+|**FEI**|||||
 |FEI R2|![FEI](./Switches/FEI/fei.webp)|Linear||62g|
-|# Gateron|||||
+|**Gateron**|||||
 |Black|![Black](./Switches/Gateron/black.jpg)|Linear|60g||
 |Blue|![Blue](./Switches/Gateron/blue.jpg)|Clicky|60g||
 |Brown|![Brown](./Switches/Gateron/brown.jpg)|Tactile|55g||
@@ -96,13 +96,13 @@ A list of mechanical switches. I made it to ensure that anyone can find them as 
 |Silent Red|![Silent Red](./Switches/Gateron/silent_red.jpg)|Linear|45g||
 |Silent Yellow|![Silent Yellow](./Switches/Gateron/silent_yellow.jpg)|Linear|50g||
 |Yellow|![Yellow](./Switches/Gateron/yellow.jpg)|Linear|50g||
-|# Greetech|||||
+|**Greetech**|||||
 |Black|![Black](./Switches/Greetech/black.jpg)|Linear|80g||
 |Blue|![Blue](./Switches/Greetech/blue.jpg)|Clicky|55g||
 |Brown|![Brown](./Switches/Greetech/brown.jpg)|Tactile|55g||
 |Green|![Green](./Switches/Greetech/green.webp)|Clicky|80g||
 |Red|![Red](./Switches/Greetech/red.jpg)|Linear|55g||
-|# Kailh|||||
+|**Kailh**|||||
 |Black|![Black](./Switches/Kailh/black.jpg)||||
 |Blue|![Blue](./Switches/Kailh/blue.jpg)||||
 |BOX Ancient Grey|![Box Ancient Grey](./Switches/Kailh/box_ancient_grey.jpg)||||
@@ -118,32 +118,32 @@ A list of mechanical switches. I made it to ensure that anyone can find them as 
 |Choc Brown|![Choc Brown](./Switches/Kailh/choc_brown.jpg)||||
 |Choc Red|![Choc Red](./Switches/Kailh/choc_red.jpg)||||
 |Choc White|![Choc White](./Switches/Kailh/choc_white.jpg)||||
-|# Matias|||||
+|**Matias**|||||
 |Linear|![Black](./Switches/Matias/linear.jpg)|Linear|||
 |Quiet|![Blue](./Switches/Matias/quiet.jpg)||||
 |Standard|![Brown](./Switches/Matias/standard.jpg)||||
-|# MOD|||||
+|**MOD**|||||
 |H|![H](./Switches/MOD/h.jpg)|Linear|62g|78g|
 |H|![H](./Switches/MOD/h.jpg)|Tactile|62g|78g|
 |L|![L](./Switches/MOD/l.jpg)|Linear|45g|62g|
 |L|![L](./Switches/MOD/l.jpg)|Tactile|45g|62g|
 |M|![M](./Switches/MOD/m.jpg)|Linear|55g|68g|
 |M|![M](./Switches/MOD/m.jpg)|Tactile|55g|68g|
-|# Outemu|||||
+|**Outemu**|||||
 |Black|![Black](./Switches/Outemu/black.jpg)||||
 |Blue|![Blue](./Switches/Outemu/blue.jpg)||||
 |Brown|![Brown](./Switches/Outemu/brown.jpg)||||
 |Red|![Red](./Switches/Outemu/red.jpg)||||
-|# TTC|||||
+|**TTC**|||||
 |Gold Brown|![Brown](./Switches/TTC/gold_brown.jpg)|Tactile|50g|60g|
 |Gold Red|![Red](./Switches/TTC/gold_red.jpg)|Linear|50g|65g|
-|# YOK|||||
+|**YOK**|||||
 |Mint Panda|![Mint](./Switches/YOK/mint_panda.webp)|Linear|50g|60g|
 |Polar Panda|![Polar](./Switches/YOK/polar_panda.jpg)|Linear|50g|60g|
 |Purple Trash Panda|![Purple Trash](./Switches/YOK/purple_trash_panda.jpg)|Tactile|67g|70g|
 |Red Panda|![Red](./Switches/YOK/red_panda.webp)|Linear|50g|60g|
 |Trash Panda|![Trash](./Switches/YOK/trash_panda.jpg)|Linear|50g|60g|
-|# ZealPC|||||
+|**ZealPC**|||||
 |Aliaz|![Aliaz](./Switches/ZealPC/zealios_v2_62.jpg)|Tactile|60g||
 |Aliaz|![Aliaz](./Switches/ZealPC/zealios_v2_62.jpg)|Tactile|70g||
 |Aliaz|![Aliaz](./Switches/ZealPC/zealios_v2_62.jpg)|Tactile|80g||
